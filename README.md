@@ -1,5 +1,1 @@
-Meu primeiro sistema no git
-
-criado o index.html
-
-alteração feita no MASTER
+Meu primeiro sistema no Git (alterado)
